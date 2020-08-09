@@ -1,0 +1,25 @@
+{
+    "nextId": 8,
+    "accounts": [
+        {
+            "id": 1,
+            "nome": "Helena",
+            "saldo": 50
+        },
+        {
+            "id": 2,
+            "nome": "fulano",
+            "saldo": 500
+        },
+        {
+            "id": 3,
+            "nome": "sicrano",
+            "saldo": 0
+        },
+        {
+            "id": 7,
+            "nome": "Helena",
+            "saldo": 50
+        }
+    ]
+}
